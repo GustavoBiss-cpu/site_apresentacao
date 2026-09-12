@@ -758,9 +758,10 @@
     background:#fff;
   }
   .qr-box img{ 
-    width:100%; 
+    width:120%; 
     display:block; 
     border-radius: 10px;
+    
   }
   
     .qr-caption{ font-family:var(--mono); font-size:11px; color:var(--graphite); margin-top:8px; max-width:128px; }
