@@ -752,7 +752,7 @@
   .contact-list li a{ display:flex; justify-content:space-between; }
   .contact-list li a:hover{ color:var(--blue); }
   .qr-box{
-    width:128px;
+    width:190px;
     border:1px solid var(--line);
     padding:8px;
     background:#fff;
